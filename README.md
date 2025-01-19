@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 100px></p>
 
-<h1 align="center"><b> ## Hi, I'm Janith Malinda</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi, I'm Janith Malinda</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JanithMalinda&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JanithMalinda&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
